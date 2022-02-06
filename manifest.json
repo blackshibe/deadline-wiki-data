@@ -1,0 +1,9 @@
+{
+	"short_name": "Deadline wiki",
+	"name": "Deadline Public Wiki",
+	"icons": [],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
