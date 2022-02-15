@@ -2,10 +2,9 @@
 
 Tied directly to ingame completion.
 
-<script>
-    let json = fetch("https://raw.githubusercontent.com/phunanon/Insitux/master/integrations/Deadline.json")
-    alert(await json.text())
-</script>
+<div id="contents">
+
+</div>
 
 ## Index
 
@@ -13,3 +12,14 @@ Tied directly to ingame completion.
 -   [API](https://blackshibe.github.io/deadline-wiki-data/insitux/API.html)
 -   [Code samples](https://blackshibe.github.io/deadline-wiki-data/insitux/Samples.html)
 -   [User scripts](https://blackshibe.github.io/deadline-wiki-data/insitux/Scripts.html)
+
+<script defer>
+    let response = await fetch("https://raw.githubusercontent.com/phunanon/Insitux/master/integrations/Deadline.json");
+    response.text().then((data) => {
+        let parsed = JSON.parse(data);
+        let doc = document.getElementById("contents");
+        for (i in parsed) {
+            doc.innerText += parsed[i];
+        }
+    });
+</script>
