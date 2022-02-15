@@ -1,6 +1,6 @@
 # Getting Started
 
-A better base explanation written by Patrick himself is available in the Insitux repo [README.](https://github.com/phunanon/Insitux)
+A better base explanation written by Patrick himself is available in [phunanon/Insitux](https://github.com/phunanon/Insitux)<br/>
 If you want to look at scripts written by other people, check out [phunanon/InsituxScripts](https://github.com/phunanon/InsituxScripts/)
 
 # Index

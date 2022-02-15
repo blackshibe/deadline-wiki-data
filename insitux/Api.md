@@ -1,14 +1,17 @@
 # API
 
+The entire API available inside deadline. contents are automatically synchronized with the deadline completion.
+
 # Index
 
--   [Main](https://blackshibe.github.io/deadline-wiki-data/insitux/Main.html)
--   [API](https://blackshibe.github.io/deadline-wiki-data/insitux/Api.html)
--   [Code samples](https://blackshibe.github.io/deadline-wiki-data/insitux/Samples.html)
+-   [Main](./Main.html)
+-   [Getting Started](./GettingStarted.html)
+-   [API](./Api.html)
+-   [Code Samples](./Samples.html)
 
 # Enum-like strings
 
-```clj
+```
 ; MAPS
 demo_baseplate
 demo_claustrophobic_v3
@@ -18,7 +21,7 @@ dl_afghanistan
 dl_shipment
 ```
 
-```clj
+```
 ; CALIBERS
 45acp_match_fmj
 545x39_ammo1
@@ -30,7 +33,7 @@ dl_shipment
 invalid
 ```
 
-```clj
+```
 ; WEAPONS
 M4A1
 AK74N
@@ -43,7 +46,7 @@ Glock17
 Makarov
 ```
 
-```clj
+```
 ; CAMERA MODES
 Default (fallback)
 Freecam
@@ -52,8 +55,6 @@ Tperson
 ```
 
 # Contents
-
-Tied directly to ingame completion.
 
 <div id="__contents__" style="list-style-type: none">
 
