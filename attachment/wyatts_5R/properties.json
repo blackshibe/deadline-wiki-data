@@ -1,0 +1,1 @@
+{"disableInstanceReduction":true,"map":[{"modelName":"ammo","class":"ammo-762x51"}],"stats":{"weight":0.14,"magazine_capacity":5,"ergonomics":-1},"previewFov":2.5,"name":"Wyatt's Outdoor .308 5R","global_flags":{"mag_stack":{"a2":0.21,"b":-0.06,"b2":-0.25},"max_displayed_ammo":3},"attachName":"Magazine"}

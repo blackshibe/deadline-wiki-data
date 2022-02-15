@@ -1,0 +1,1 @@
+{"disableInstanceReduction":true,"map":[{"class":"ammo-9x19","modelName":"ammo","default":"ammo1"}],"stats":{"weight":0.13,"magazine_capacity":10,"ergonomics":4},"previewFov":2.6,"name":"Standard PP-19-01 10R","global_flags":{"mag_stack":{"f2":3.14,"f":-0.007,"b2":-0.1,"b":0.03,"a2":-0.18,"c4":0.028,"c2":-0.014},"max_displayed_ammo":5},"attachName":"Magazine"}

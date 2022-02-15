@@ -1,0 +1,1 @@
+{"disableInstanceReduction":true,"map":[{"modelName":"frontSight","class":"glockFrontSight"},{"modelName":"rearSight","class":"glockRearSight"}],"stats":{"weight":0.12,"verticalRecoil":-2,"horizontalRecoil":-3,"ergonomics":1},"preview_rotation":0,"name":"Moto Cut","previewFov":2,"attachName":"Slide"}

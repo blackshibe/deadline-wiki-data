@@ -1,0 +1,1 @@
+{"map":[{"modelName":"front_sight","class":"mosin_front_sight"},{"class":"mosin_rear_sight","modelName":"rear_sight","mountType":"short"}],"stats":{"weight":0.51,"verticalRecoil":-2,"bullet_velocity":0,"ergonomics":0,"horizontalRecoil":0},"name":"Mosin Regular 514mm","attachName":"Barrel"}

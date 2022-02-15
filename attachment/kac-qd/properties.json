@@ -1,0 +1,1 @@
+{"map":[{"modelName":"muzzleDevice","class":"qdss"}],"stats":{"weight":0.07,"verticalRecoil":-7,"bullet_velocity":90,"ergonomics":0,"horizontalRecoil":0},"previewFov":1,"name":"KAC QD","attachName":"Compensator","mountableTypes":{"ak_barrel":true,"m4_barrel":true}}

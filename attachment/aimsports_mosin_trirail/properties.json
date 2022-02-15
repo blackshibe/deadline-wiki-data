@@ -1,0 +1,1 @@
+{"map":[{"class":"picatinny","modelName":"top_picatinny","mountType":"topRail"},{"class":"picatinny","modelName":"left_picatinny","mountType":"sideRail"},{"class":"picatinny","modelName":"right_picatinny","mountType":"sideRail"}],"stats":{"weight":0.16,"ergonomics":-4},"name":"Aimsports Mosin Tri-Rail","attachName":"Mount","mountableTypes":{"short":true,"long":true}}

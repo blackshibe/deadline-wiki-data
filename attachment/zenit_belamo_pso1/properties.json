@@ -1,0 +1,1 @@
+{"map":[{"modelName":"cup","class":"pso_cup"}],"attachType":"optic","stats":{"weight":0.43,"ergonomics":-10},"name":"Zenit-Belamo PSO-1 4x24","incompatibleAttachments":["akademia-bastion","SI_Ak_RS-Rail","scoutScopes_Ak_DropOn"],"tooltip":{"description":"zeroed to 400 studs","notes":["unusable_in_nv"]},"attachName":"Dovetail Optic"}

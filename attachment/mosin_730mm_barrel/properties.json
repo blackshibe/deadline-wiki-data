@@ -1,0 +1,1 @@
+{"map":[{"modelName":"front_sight","class":"mosin_front_sight"},{"modelName":"rear_sight_mount","class":"mosin_rear_sight_mount"}],"stats":{"weight":0.6,"verticalRecoil":-10,"bullet_velocity":300,"ergonomics":-4,"horizontalRecoil":-2},"name":"Mosin 730mm","attachName":"Barrel"}

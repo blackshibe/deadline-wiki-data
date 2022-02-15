@@ -1,0 +1,1 @@
+{"map":[{"class":"picatinny","modelName":"topRail","mountType":"riserMount"}],"stats":{"weight":0.02,"ergonomics":-1},"tooltip":{"description":"Allows small optics and sights to be mounted in a 45 degree angle.","notes":[]},"preview_rotation":1,"name":"NcStar Mpr45 Offset mount","previewFov":1,"attachName":"Offset Mount","mountableTypes":{"receiverSight":true,"topRail":true}}

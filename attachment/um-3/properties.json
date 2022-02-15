@@ -1,0 +1,1 @@
+{"map":[{"class":"picatinny","modelName":"universal1","mountType":"topRail"},{"class":"picatinny","modelName":"universal2","mountType":"bottomRail"}],"stats":{"weight":0.06,"ergonomics":-1},"previewFov":2.5,"name":"UM3","attachName":"Picatinny mount","incompatibleAttachments":["amp-1r","fd917"]}

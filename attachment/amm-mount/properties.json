@@ -1,0 +1,1 @@
+{"map":[{"class":"ammMount","modelName":"spacer","mountType":"amm"}],"stats":{"weight":0.01,"ergonomics":0},"previewFov":1.2,"name":"AMM mount","attachName":"Sight Mount","mountableTypes":{"riserMount":true,"topRail":true,"receiverSight":true}}

@@ -1,0 +1,1 @@
+{"disableInstanceReduction":true,"map":[{"modelName":"frontSight","class":"glockFrontSight"},{"modelName":"rearSight","class":"glockRearSight"},{"class":"rmr-mount","modelName":"rmr","mountType":"glockSlide"}],"stats":{"weight":0.1,"verticalRecoil":-3,"horizontalRecoil":0,"ergonomics":3},"preview_rotation":0,"name":"Zev Tech Hex Gen3","previewFov":2,"attachName":"Slide"}

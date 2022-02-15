@@ -1,0 +1,1 @@
+{"map":[{"mountType":"receiverSight","allowMultipleAttachmentsOnSameRail":true,"class":"picatinny","modelName":"railTop"},{"mountType":"sideRail","allowMultipleAttachmentsOnSameRail":true,"class":"picatinny","modelName":"railSide"}],"stats":{"weight":0.17,"ergonomics":-4},"name":"Axion Cobra","attachName":"Weaver mount","incompatibleAttachments":["akademia-bastion"]}

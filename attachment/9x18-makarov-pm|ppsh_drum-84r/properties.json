@@ -1,0 +1,1 @@
+{"disableInstanceReduction":true,"map":[{"class":"ammo-9x18","default":"ammo1","modelName":"ammo"}],"stats":{"weight":0.68,"magazine_capacity":84,"ergonomics":-5},"previewFov":2.5,"name":"STD 84R","global_flags":{"mag_stack":{"a":-0.011,"f2":3.3,"b2":0.04,"b":0.04,"a2":-0.02,"c2":0.005},"disable_quick_reload":true,"max_displayed_ammo":8},"attachName":"Magazine"}
