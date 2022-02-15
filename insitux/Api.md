@@ -1,92 +1,55 @@
 # API
 
-to set values, add $ to treat them like a "set" function:
-
-```clj
-($dl.globals.time_offset 0.5)
-;; 0.5
-```
-
-to get values, add $ to treat them like a "get" function when supplied as arguments
-
-```clj
-(print $dl.globals.time_offset)
-;; prints the value of dl.globals.time_offset
-```
-
-### Other
-
-to define variables, use `var`:
-
-```clj
-(var hi 0.5)
-(print hi)
-;; prints hi (0.5)
-```
-
-### Examples
-
-```clj
-(print "hello world from deadline " $dl.globals.version " rev. " $dl.globals.revision)
-```
-
-```clj
-(dl.util.set_map "dl_shipment")
-```
-
-## Integration guide
-
-### Playing sounds
-
-`dl.sound` is a class that allows playing sounds.
-
-```clj
-(dl.sound.new "handle")
-(dl.sound.set_id "handle" "your_id")
-(dl.sound.play "handle")
-(wait 10)
-(dl.sound.set_time_position "handle" 0)
-```
-
-`dl.gunshot_emitter` mimicks gunshot sounds the game plays.
-
-```clj
-(dl.gunshot_emitter.new "handle" "UMP45")
-(dl.gunshot_emitter.set_position "handle" [0 100 0])
-
-;; automatic gunfire
-(dl.gunshot_emitter.start_kind "handle" "auto")
-(wait 3)
-(dl.gunshot_emitter.stop_kind "handle" "auto")
-(dl.gunshot_emitter.start_kind "handle" "tail")
-```
-
-### Simulating weapons
-
-```clj
-;; fires a non-damaging UMP45 shot at 1500 projectile velocity
-(dl.util.fire [0 0 0] [0 100 0] "45acp_match_fmj" 1500)
-```
-
-```clj
-;; blows you up
-(dl.players.you.explode)
-;; explodes a grenade that deals damage at 0,100,0
-(dl.util.explosion [0 100 0])
-```
-
-### Manipulating players
-
-```clj
-(dl.players.you.fill_ammo "primary")
-```
-
-## Index
+# Index
 
 -   [Main](https://blackshibe.github.io/deadline-wiki-data/insitux/Main.html)
 -   [API](https://blackshibe.github.io/deadline-wiki-data/insitux/Api.html)
 -   [Code samples](https://blackshibe.github.io/deadline-wiki-data/insitux/Samples.html)
--   [User scripts](https://blackshibe.github.io/deadline-wiki-data/insitux/Scripts.html)
+
+# Enum-like strings
+
+```clj
+; MAPS
+demo_baseplate
+demo_claustrophobic_v3
+demo_claustrophobic_v4
+dl_shooting_range
+dl_afghanistan
+dl_shipment
+```
+
+```clj
+; CALIBERS
+45acp_match_fmj
+545x39_ammo1
+556_ammo1
+762x51_nato_m80
+762x54r_7n1
+9x18_makarov_ammo
+9x19_standard_ammo
+invalid
+```
+
+```clj
+; WEAPONS
+M4A1
+AK74N
+UMP45
+PP19
+MP5
+Remington700
+MosinNagant
+Glock17
+Makarov
+```
+
+```clj
+; CAMERA MODES
+Default (fallback)
+Freecam
+Frozen
+Tperson
+```
 
 # Contents
 
