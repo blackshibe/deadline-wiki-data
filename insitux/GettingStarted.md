@@ -45,9 +45,9 @@ don't forget about booleans:
 
 ```clj
 (print true false)
--> true false
+; -> true false
 (if true (print "true is truthy"))
--> true is truthy
+; -> true is truthy
 ```
 
 # Integration with the game
@@ -62,7 +62,7 @@ Let's first shift the time by a few hours:
 
 ```clj
 ($dl.globals.time_offset 10)
--> 10
+; -> 10
 ```
 
 This will set the value of dl.globals.time_offset to 10.
@@ -71,7 +71,7 @@ Next, you can tell everyone about the current time offset:
 
 ```clj
 (dl.util.fmessage "the current time offset is: " $dl.globals.time_offset)
--> null
+; -> null
 ```
 
 The chat window should say "the current time offset is: 10", or "##########" depending on how roblox feels that given day.
