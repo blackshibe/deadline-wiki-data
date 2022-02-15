@@ -5,10 +5,10 @@ If you want to look at scripts written by other people, check out [phunanon/Insi
 
 # Index
 
--   [Main](https://blackshibe.github.io/deadline-wiki-data/insitux/Main.html)
--   [Getting Started](https://blackshibe.github.io/deadline-wiki-data/insitux/GettingStarted.html)
--   [API](https://blackshibe.github.io/deadline-wiki-data/insitux/Api.html)
--   [Code Samples](https://blackshibe.github.io/deadline-wiki-data/insitux/Samples.html)
+-   [Main](./Main.html)
+-   [Getting Started](./GettingStarted.html)
+-   [API](./Api.html)
+-   [Code Samples](./Samples.html)
 
 # Preparation
 
