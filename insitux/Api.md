@@ -22,6 +22,20 @@ dl_shipment
 ```
 
 ```
+; LIGHTING PRESETS
+blank
+foggy
+day
+spooktober
+dl_baseplate
+dl_builder
+demo_claustrophobic_lighting
+dl_afghanistan
+dl_afghanistan_morning
+dl_shipment
+```
+
+```
 ; CALIBERS
 45acp_match_fmj
 545x39_ammo1
