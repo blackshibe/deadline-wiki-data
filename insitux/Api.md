@@ -27,10 +27,10 @@ blank
 foggy
 day
 spooktober
+darkworld
 dl_baseplate
 dl_builder
 demo_claustrophobic_lighting
-dl_afghanistan
 dl_afghanistan_morning
 dl_shipment
 ```
