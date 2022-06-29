@@ -9,9 +9,9 @@ The entire API available inside deadline. contents are automatically synchronize
 -   [API](./Api.html)
 -   [Code Samples](./Samples.html)
 
-# Enum-like strings
+# codestrings
 
-```
+```clj
 ; MAPS
 demo_baseplate
 demo_claustrophobic_v3
@@ -19,9 +19,16 @@ demo_claustrophobic_v4
 dl_shooting_range
 dl_afghanistan
 dl_shipment
-```
 
-```
+; GAMEMODES
+domination
+koth
+push_waves
+push_tickets
+none
+example
+tdm
+
 ; LIGHTING PRESETS
 blank
 foggy
@@ -33,9 +40,27 @@ dl_builder
 demo_claustrophobic_lighting
 dl_afghanistan_morning
 dl_shipment
-```
 
-```
+; WEAPONS
+M4A1
+AK74N
+UMP45
+PP19
+MP5
+Remington700
+MosinNagant
+Glock17
+Makarov
+Vector
+Remington870
+MP133
+
+; CAMERA MODES
+Default (fallback)
+Freecam
+Frozen
+Tperson
+
 ; CALIBERS
 45acp_blazer_brass_230gr_fmj
 5.45x39_tulammo_60gr_fmj_ta545390
@@ -75,30 +100,6 @@ pheonix_rising_hellfire_3i_dragons_breath
 45acp_tulammo_230gr_fmj
 45acp_ammoinc_230gr_red_tracer_jhp
 federal_h1234_game-shok_12x70_150_plts_#4
-```
-
-```
-; WEAPONS
-M4A1
-AK74N
-UMP45
-PP19
-MP5
-Remington700
-MosinNagant
-Glock17
-Makarov
-Vector
-Remington870
-MP133
-```
-
-```
-; CAMERA MODES
-Default (fallback)
-Freecam
-Frozen
-Tperson
 ```
 
 # Contents
