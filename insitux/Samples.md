@@ -58,7 +58,7 @@ If you want to look at scripts written by other people, check out [phunanon/Insi
 
 ; turn the game into a movement shooter
 ; anticheat kills people who stay in the air
-($dl.globals.airkill false)
+($dl.globals.air_kill false)
 ($dl.globals.fall_damage_enabled false)
 ($dl.globals.gravity 10)
 ($dl.globals.debug_player_speed 15)
